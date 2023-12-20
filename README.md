@@ -1,5 +1,4 @@
 
-```markdown
 # Vite React Pizza Menu Project
 
 This project is a pizza menu application built using Vite and React. It displays a list of pizza items and allows users to view details about each pizza.
